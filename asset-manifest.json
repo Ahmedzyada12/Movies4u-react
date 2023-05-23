@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Movies4u-react/static/css/main.3513e102.css",
+    "main.js": "/Movies4u-react/static/js/main.9449ac18.js",
+    "static/media/ava.png": "/Movies4u-react/static/media/ava.472a0b2f422166bd298e.png",
+    "static/media/batman-v-superman-movie.jpg": "/Movies4u-react/static/media/batman-v-superman-movie.ceee7898a27d1b3c7d37.jpg",
+    "static/media/3657445.jpeg": "/Movies4u-react/static/media/3657445.360b59c15e55f0bf8ff0.jpeg",
+    "static/media/Space-Sweepers.jpg": "/Movies4u-react/static/media/Space-Sweepers.831d1e54214d609402c6.jpg",
+    "static/media/bat.jpg": "/Movies4u-react/static/media/bat.fec9290adb08d3d5e57b.jpg",
+    "static/media/as.jpeg": "/Movies4u-react/static/media/as.595b3bac20cded1a9cbe.jpeg",
+    "static/media/jon.jpg": "/Movies4u-react/static/media/jon.8efa106b9fbe41a500db.jpg",
+    "static/media/movies_logo_for-header.png": "/Movies4u-react/static/media/movies_logo_for-header.adecdc9ee7bffd320cb7.png",
+    "static/media/a.jpg": "/Movies4u-react/static/media/a.6effa0b0770a1b1f55e3.jpg",
+    "static/media/slick.svg": "/Movies4u-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Movies4u-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Movies4u-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Movies4u-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Movies4u-react/index.html",
+    "main.3513e102.css.map": "/Movies4u-react/static/css/main.3513e102.css.map",
+    "main.9449ac18.js.map": "/Movies4u-react/static/js/main.9449ac18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3513e102.css",
+    "static/js/main.9449ac18.js"
+  ]
+}
