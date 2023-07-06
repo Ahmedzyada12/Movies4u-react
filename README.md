@@ -1,5 +1,8 @@
 # Getting Started with Create React App
-  
+ ![Capture1](https://github.com/Ahmedzyada12/Movies4u-react/assets/126186881/3b89c272-a9bc-4a3a-99da-54e04eeed44b)
+![Capture2](https://github.com/Ahmedzyada12/Movies4u-react/assets/126186881/eb0b4073-10ee-4bba-89fe-de14422a64f4)
+![Capture3](https://github.com/Ahmedzyada12/Movies4u-react/assets/126186881/52fbac35-5e17-4787-9bfd-8b0a853a940b)
+
  
    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
